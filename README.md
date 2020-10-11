@@ -2,9 +2,11 @@
 
 ### About me
 
-Hi, I'm **Full Stack Web Developer** :computer: , I'm 19 years old, I am from Peru, lover of open source. 
+Hi, I'm **Full Stack Web Developer** :computer:, I am from Peru, lover of open source. 
 
 I love programming :heart:, researching and learning new technologies while creating projects constantly :star2:. I consider myself self-taught, persistent. My favorite language is Javascript and I like to create more user interfaces.
+
+I think...
 > You never lose a dream. It just incubates as a hobby. *"Larry Page"* 
 
 <a href="https://dev.to/jhony24">
