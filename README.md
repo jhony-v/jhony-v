@@ -6,9 +6,6 @@ Hi, I'm **Full Stack Web Developer** :computer:, I am from Peru, lover of open s
 
 I love programming :heart:, researching and learning new technologies while creating projects constantly :star2:. I consider myself self-taught, persistent. My favorite language is Javascript and I like to create more user interfaces.
 
-I think...
-> You never lose a dream. It just incubates as a hobby. *"Larry Page"* 
-
 <a href="https://dev.to/jhony24">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jhony Vega's DEV Profile" height="30" width="30">
 </a>
@@ -28,6 +25,6 @@ I think...
 ### How to search me
 
             
-📝 See my portfolio in [Jhony-24](https://jhony-24.github.io/portfolio)
+📝 See my portfolio in [Jhony Vega](https://jhony-24.github.io/portfolio)
 
 :globe_with_meridians: And making connection on [Linkedin](https://www.linkedin.com/in/jhony-vega-cuya-4b777715b/)
