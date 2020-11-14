@@ -2,7 +2,7 @@
 
 ### About me
 
-Hi, I'm **Full Stack Web Developer** :computer:, I am from Peru, lover of open source. 
+Hi, I'm **Frontend Developer** :computer:, I am from Peru, lover of open source. 
 
 I love programming :heart:, researching and learning new technologies while creating projects constantly :star2:. I consider myself self-taught, persistent. My favorite language is Javascript and I like to create more user interfaces.
 
