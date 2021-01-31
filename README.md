@@ -26,6 +26,6 @@ I love programming :heart:, researching and learning new technologies while crea
 ### How to search me
 
             
-📝 See my portfolio in [Jhony Vega](https://jhony-24.github.io/portfolio)
+📝 See my portfolio in [Jhony Vega](https://jhonyvega.com)
 
-:globe_with_meridians: And making connection on [Linkedin](https://www.linkedin.com/in/jhony-vega-cuya-4b777715b/)
+:globe_with_meridians: And making connection on [Linkedin](https://www.linkedin.com/in/jhony-vega/)
