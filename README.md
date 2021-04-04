@@ -2,6 +2,7 @@
 
 I am **Frontend Developer** 💻, passionate about programming and web development ♥️. I'm self taught, persistent and like watch fiction movie. 
 My main experience is the frontend but I have experience with other technologies like NodeJs, PHP, Python, Java.
+
 </br>
 
 <a href="https://dev.to/jhony24">
