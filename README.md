@@ -1,6 +1,8 @@
-<img src="./banner.png" alt="banner profile" />
+# Hi again, I'm Jhony Vega 👨 👋
 
-My portfolio in the next link [https://jhonyvega.com](https://jhonyvega.com)
+I am **Frontend Developer** 💻, passionate about programming and web development ♥️. I'm self taught, persistent and like watch fiction movie. 
+
+</br>
 
 <a href="https://dev.to/jhony24">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Jhony Vega's DEV Profile">
@@ -17,3 +19,17 @@ My portfolio in the next link [https://jhonyvega.com](https://jhonyvega.com)
 <a href="https://jhonyvega.com" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
+
+### I am Frontend Developer
+- *🔭 I’m currently working at [kambista](https://kambista.com/) :grin:*
+- *⭐ I’m currently learning architecture.*
+- *👯 I’m looking to collaborate with other Developers :wink:*
+- *💬 Ask me about anything, I am happy to help*
+- *🎵 My personal website is [https://jhonyvega.com](https://jhonyvega.com)*
+- *🧗 I always try to go beyond and push the bounds*
+- *⚡ I love connecting with different people, is funny*
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-24&show_icons=true&layout=compact&theme=dark)
+![Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhony-24&layout=compact&langs_count=8&theme=dark)
+
