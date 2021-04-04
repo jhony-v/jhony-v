@@ -1,7 +1,7 @@
 # Hi again, I'm Jhony Vega 👨 👋
 
 I am **Frontend Developer** 💻, passionate about programming and web development ♥️. I'm self taught, persistent and like watch fiction movie. 
-
+My main experience is the frontend but I have experience with other technologies like NodeJs, PHP, Python, Java.
 </br>
 
 <a href="https://dev.to/jhony24">
@@ -29,6 +29,8 @@ I am **Frontend Developer** 💻, passionate about programming and web developme
 - *🧗 I always try to go beyond and push the bounds*
 - *⚡ I love connecting with different people, is funny*
 
+</br>
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-24&show_icons=true&layout=compact&theme=dark)
 ![Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhony-24&layout=compact&langs_count=8&theme=dark)
