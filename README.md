@@ -34,5 +34,3 @@ My main experience is the frontend but I have experience with other technologies
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-24&show_icons=true&layout=compact&theme=dark)
-![Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhony-24&layout=compact&langs_count=8&theme=dark)
-
