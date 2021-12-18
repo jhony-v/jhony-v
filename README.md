@@ -1,7 +1,19 @@
-# Hi again, I'm Jhony Vega 👨 👋
+# Hi, I'm Jhony Vega 👨 👋
 
 I am **Frontend Developer** 💻, passionate about programming and web development. I'm self taught, persistent and I like write code about interesting projects. 
 My main experience is the frontend but I have experience with other technologies like NodeJs, PHP, Python, Java.
+
+</br>
+
+
+### I am Frontend Developer
+- *🔭 I’m currently working at [kambista](https://kambista.com/) :grin:*
+- *⭐ I’m currently learning architecture and microfrontends*
+- *👯 I’m looking to collaborate with other Developers :wink:*
+- *💬 Ask me about anything, I am happy to help you*
+- *🎵 My personal website is [https://jhonyvega.com](https://jhonyvega.com)*
+- *🧗 I always try to go beyond and push the bounds*
+- *⚡ I love connecting with different people*
 
 </br>
 
@@ -20,15 +32,6 @@ My main experience is the frontend but I have experience with other technologies
 <a href="https://jhonyvega.com" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
-
-### I am Frontend Developer
-- *🔭 I’m currently working at [kambista](https://kambista.com/) :grin:*
-- *⭐ I’m currently learning architecture and best practices.*
-- *👯 I’m looking to collaborate with other Developers :wink:*
-- *💬 Ask me about anything, I am happy to help you*
-- *🎵 My personal website is [https://jhonyvega.com](https://jhonyvega.com)*
-- *🧗 I always try to go beyond and push the bounds*
-- *⚡ I love connecting with different people, is funny*
 
 </br>
 </br>
