@@ -7,7 +7,7 @@ My main experience is the frontend but I have experience with other technologies
 
 
 ### I am Frontend Developer
- *⭐ I’m currently learning micro-frontend patterns*
+- *⭐ I’m currently learning micro-frontend patterns*
 - *👯 I’m looking to collaborate with other Developers :wink:*
 - *💬 Ask me about anything, I am happy to help you*
 - *🎵 My personal website is [https://jhonyvega.com](https://jhonyvega.com)*
