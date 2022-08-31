@@ -1,14 +1,13 @@
 # Hi, I'm Jhony Vega 👨 👋
 
-I am **Frontend Developer** 💻, passionate about programming and web development. I'm self taught, persistent and I like write code about interesting projects. 
+I'm **Frontend Developer** 💻, passionate about programming and web development. I'm self taught, persistent and I like writing code about interesting projects 💫. 
 My main experience is the frontend but I have experience with other technologies like NodeJs, PHP, Python, Java.
 
 </br>
 
 
 ### I am Frontend Developer
-- *🔭 I’m currently working at [kambista](https://kambista.com/) :grin:*
-- *⭐ I’m currently learning architecture and microfrontends*
+ *⭐ I’m currently learning micro-frontend patterns*
 - *👯 I’m looking to collaborate with other Developers :wink:*
 - *💬 Ask me about anything, I am happy to help you*
 - *🎵 My personal website is [https://jhonyvega.com](https://jhonyvega.com)*
