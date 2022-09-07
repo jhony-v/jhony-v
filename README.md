@@ -35,4 +35,4 @@ My main experience is the frontend but I have experience with other technologies
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-24&show_icons=true&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-v&show_icons=true&layout=compact&theme=dark)
