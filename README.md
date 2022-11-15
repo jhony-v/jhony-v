@@ -5,7 +5,7 @@
   </p>
 </h1>
 
-*I'm a **Frontend Developer** 💻, passionate about programming and web development. I enjoy creating projects magically interesting by focusing on architecture, code quality, and performance, also exploring new manners to do stuff 🚀.
+*I'm a **Frontend Developer** 💻, passionate about programming and web development. I enjoy creating projects magically interesting by focusing on architecture, code quality, and performance, also exploring new manners to do stuff 🚀.*
 
 </br>
 
