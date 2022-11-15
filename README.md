@@ -5,8 +5,7 @@
   </p>
 </h1>
 
-*I'm **Frontend Developer** 💻, passionate about programming and web development. I'm self taught, persistent and I like writing code on interesting projects 🚀. 
-My main experience is the frontend but I've got experience with other technologies like NodeJs, PHP, Python, Java.*
+*I'm a **Frontend Developer** 💻, passionate about programming and web development. I enjoy creating projects magically interesting by focusing on architecture, code quality, and performance, also exploring new manners to do stuff 🚀.
 
 </br>
 
@@ -30,14 +29,13 @@ My main experience is the frontend but I've got experience with other technologi
 
 </br>
 
-- *⭐ I’m currently learning micro-frontend patterns*
-- *👯 I’m looking to collaborate with other Developers :wink:*
-- *💬 Ask me about anything, I am happy to help you*
-- *🎵 My personal website is [https://jhonyvega.com](https://jhonyvega.com)*
-- *🧗 I always try to go beyond and push the bounds*
-- *⚡ I love connecting with different people*
+- *⭐ I’m currently learning web assembly*
+- *🤖 I’m looking to collaborate with other Developers 💻*
+- *🤗 Ask me about anything, I'll be glad to give you a hand*
+- *🚀 It's my website, you can go there [https://jhonyvega.com](https://jhonyvega.com)*
+- *🍵 Let's drink a cup of coffee*
+- *⚡ I love connecting with different people and keep learning*
 
-</br>
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-v&show_icons=true&layout=compact&theme=dark)
