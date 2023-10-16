@@ -31,7 +31,7 @@ I'm a **Frontend Developer** 💻, passionate about programming and web developm
     <td>
       <ul>
         <li>🐉 A curious in constant pursuit of technical mastery</li>
-        <li>⚛️ Frontend enthusiast and its ecosystem</li>
+        <li>⚛️ Frontend and React enthusiast and its ecosystem</li>
         <li>🤖 I’m looking to collaborate with other Developers 💻</li>
         <li>🚀 It's my website, you can go there https://jhonyvega.com</li>
         <li>⚡ I love connecting with different people and keep learning</li>
