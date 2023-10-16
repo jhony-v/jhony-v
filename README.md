@@ -1,13 +1,8 @@
 
-<h1>
-  <p align="center">
-     Hi there! I'm Jhony Vega 👨👋
-  </p>
+<h1 align="center">
+     Hi there! I'm Jhony Vega 🧙‍♂️
 </h1>
-
-*I'm a **Frontend Developer** 💻, passionate about programming and web development. I enjoy creating projects magically interesting by focusing on architecture, code quality, and performance, also exploring new manners to do stuff 🚀.*
-
-</br>
+<br/>
 
 <p align="center">
   <a href="https://dev.to/jhony">
@@ -27,15 +22,33 @@
   </a>
  </p>
 
-</br>
-
-- *⭐ I’m currently learning web assembly*
-- *🤖 I’m looking to collaborate with other Developers 💻*
-- *🤗 Ask me about anything, I'll be glad to give you a hand*
-- *🚀 It's my website, you can go there [https://jhonyvega.com](https://jhonyvega.com)*
-- *🍵 Let's drink a cup of coffee*
-- *⚡ I love connecting with different people and keep learning*
+I'm a **Frontend Developer** 💻, passionate about programming and web development. I enjoy creating projects by focusing on architecture, code quality, and performance, also exploring new technologies and manners to do things 🚀. 
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-v&show_icons=true&layout=compact&theme=dark)
+<table border="0">
+ <tr>
+    <td>
+      <ul>
+        <li>🐉 A curious in constant pursuit of technical mastery</li>
+        <li>⚛️ Frontend enthusiast and its ecosystem</li>
+        <li>🤖 I’m looking to collaborate with other Developers 💻</li>
+        <li>🚀 It's my website, you can go there https://jhonyvega.com</li>
+        <li>⚡ I love connecting with different people and keep learning</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jhony-v&show_icons=true&layout=compact&theme=dark" alt="Github stats" />      
+    </td>
+ </tr>
+</table>
+
+<br/>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" /> 
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" /> 
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" /> 
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> 
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5" alt="Python" /> 
+</p>
